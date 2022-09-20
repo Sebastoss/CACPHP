@@ -70,3 +70,8 @@
 #footer-contenido{
     background-color: #1A4860;
 }
+
+#footer-contenido a{
+    color: white;
+    text-decoration: none;
+}
